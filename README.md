@@ -1,0 +1,1 @@
+# bazel_vs_solution_generator
